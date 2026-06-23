@@ -1,10 +1,9 @@
-# Todo Flow — Flutter Internship Assessment
+# Todo App — Flutter Assessment
 
 A clean, modern Todo management application built with Flutter, integrating a live REST API for authentication and task management.
 
 ## 🔗 Live API
 
-- **Base URL:** `https://karyana.shop`
 - Postman collection provided by the assessment was used for endpoint reference and testing.
 
 ## 🏗️ Architecture
@@ -93,6 +92,14 @@ Output: `build/app/outputs/flutter-apk/app-release.apk`
 - `shared_preferences` — local token/session storage
 
 ## 📸 Screenshots
+
+<img width="250" alt="Login Screen" src="https://github.com/user-attachments/assets/6e95537a-ab7c-4fe7-89bb-3b121882bd94" />
+<img width="250" alt="Register Screen" src="https://github.com/user-attachments/assets/29779887-2e93-4776-a2ef-4b7708327f08" />
+<img width="250" alt="Dashboard" src="https://github.com/user-attachments/assets/ff05245c-ba7c-4bdc-96fc-71446687a682" />
+<img width="250" alt="Todo List" src="https://github.com/user-attachments/assets/11782372-6f8f-497f-b74e-372d715d9976" />
+<img width="250" alt="Todo Detail" src="https://github.com/user-attachments/assets/34150349-7bba-488c-bcb8-63efa85052fe" />
+<img width="250" alt="Profile" src="https://github.com/user-attachments/assets/27a4ef2b-f578-483e-8b17-2f91c2a68ed1" />
+
 
 ## 🧪 Testing
 
